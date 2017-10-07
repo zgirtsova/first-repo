@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// Updated something with TortoiseGit
+
 namespace _05.Word_in_Plural
 {
     class Program
