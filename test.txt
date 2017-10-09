@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 // Updated something with TortoiseGit
+// Updated something with GitBash ...
 
 namespace _05.Word_in_Plural
 {
