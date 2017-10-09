@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 // Updated something with TortoiseGit
 // Updated something with GitBash ...
 
+
+Making new line just to create conflict.
+
 namespace _05.Word_in_Plural
 {
     class Program
